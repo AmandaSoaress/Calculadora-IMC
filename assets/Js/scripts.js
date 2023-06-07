@@ -31,3 +31,7 @@ function imc() {
 
 }
 calcular.addEventListener('click', imc);
+
+function recarregarAPagina(){
+  window.location.reload();
+} 
